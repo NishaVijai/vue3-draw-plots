@@ -1,4 +1,4 @@
-# Draw editable plots
+# vue3 - Draw editable plots
 
 ## preview link
 - https://kg0pkc.csb.app/
